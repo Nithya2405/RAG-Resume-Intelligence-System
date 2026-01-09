@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+sentence-transformers
+transformers
+datasets
+pandas
+faiss-cpu
+docx2txt
+python-pptx
+pymupdf
+torch
